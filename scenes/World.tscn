@@ -60,7 +60,7 @@ position = Vector2( 153, 122 )
 position = Vector2( 153, 122 )
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
-position = Vector2( 12, 147 )
+position = Vector2( 12, 149 )
 JUMP_FORCE = -160
 JUMP_RELEASE_FORCE = -50
 MAX_SPEED = 70
